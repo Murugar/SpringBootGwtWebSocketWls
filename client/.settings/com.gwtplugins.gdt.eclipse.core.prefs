@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+gwtMavenModuleName=com.iqmsoft.boot.ws.wls.gwtws
+gwtMavenModuleShortName=gwtws
+lastWarOutDir=/home/iqmsoft/wlogic/SpringBootGwtWebSocket/server/target/classes/static/
+warSrcDir=src/main/webapp
+warSrcDirIsOutput=false
